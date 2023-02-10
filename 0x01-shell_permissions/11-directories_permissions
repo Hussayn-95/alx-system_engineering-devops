@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod x+x */
+chmod -rw-r--r-- -rw-r--r-- -rw-r--r-- drwxr-xr-x drwxr-xr-x drwxr-xr-x
